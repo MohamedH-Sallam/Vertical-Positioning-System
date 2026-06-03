@@ -5,6 +5,7 @@ Welcome to the engineering documentation hub for the Vertical Positioning Contro
 
 ## 🎥 System Operation Demo
 ![Physical System Operation](./operation_demo.gif)
+
 *Real-time closed-loop tracking of a dynamic payload with an 8-second execution window.*
 
 ---
