@@ -40,5 +40,6 @@ Welcome to the engineering documentation hub for the Vertical Positioning Contro
 ## 📂 Repository Contents
 * `Vertical_Positioning_Control_System_Technical_Report.pdf` — Comprehensive engineering blueprint containing formulas, schematics, and structural analysis.
 * `operation_demo.gif` — 8-second visual proof of the physical system running under closed-loop command.
+* `PID_simulink_model.m` — Functioning MatLab file (.m) to personally test and validate the PID footprint of performance.
 * `simulink_model.png` — Mathematical control block layout and transient verification loops.
 * `arduino_code.png` — High-resolution layout of the deployed C/C++ control firmware script.
