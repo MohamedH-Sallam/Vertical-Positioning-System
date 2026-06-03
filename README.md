@@ -13,7 +13,7 @@ Welcome to the engineering documentation hub for the Vertical Positioning Contro
 ## 📄 Core Project Assets
 * 🚀 **[Click Here to View the Full Technical Report](./Vertical_Positioning_Control_System_Technical_Report.pdf)**
 * 💻 **[View Arduino Control Firmware Snippet](#embedded-software-implementation)**
-* 📊 **[View MATLAB/Simulink Architecture](#2-control-systems-simulation-matlab--simulink)**
+* 📊 **[View MATLAB/Simulink Architecture](./simulink_model.png)**
 
 ---
 
